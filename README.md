@@ -14,6 +14,7 @@ pygame - 2.5.2<br>
 pygame-gui - 0.6.9<br>
 pygame-ce - 2.4.1<br>
 tk - 0.1.0 (OPCIONAL)<br>
+<h5>Proyecto desarrollado en Python 3.12.2</h5>
 
 
 <h5>Proyecto evaluativo realizado para la materia Modelos de programacion II del proyecto de ingenieria de sistemas de la universidad distrital</h5>
