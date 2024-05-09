@@ -6,7 +6,7 @@ Juan Pablo Guerrero Angulo - 20222020099<br>
 Paola Andrea Cuellar Beltrán - 20191020119<br>
 
 <h4>En este repositorio encontrará</h4>
-Version creada como SNAKEGAME, sin utilizar patrones creacionales en pro de que la aplicacion del adapter sea mas funcional
-Version creada como Snake 2.0, utlizando patron adapter sin modificar la version SNAKEGAME y agregando nuevas funcionalidades
+Version creada como SNAKEGAME, sin utilizar patrones creacionales en pro de que la aplicacion del adapter sea mas funcional<br>
+Version creada como Snake 2.0, utlizando patron adapter sin modificar la version SNAKEGAME y agregando nuevas funcionalidades<br>
 
-Proyecto evaluativo realizado para la materia Modelos de programacion II del proyecto de ingenieria de sistemas de la universidad distrital
+<h5>Proyecto evaluativo realizado para la materia Modelos de programacion II del proyecto de ingenieria de sistemas de la universidad distrital</h5>
