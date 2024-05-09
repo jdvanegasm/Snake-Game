@@ -9,4 +9,12 @@ Paola Andrea Cuellar Beltrán - 20191020119<br>
 Version creada como SNAKEGAME, sin utilizar patrones creacionales en pro de que la aplicacion del adapter sea mas funcional<br>
 Version creada como Snake 2.0, utlizando patron adapter sin modificar la version SNAKEGAME y agregando nuevas funcionalidades<br>
 
+<h5>Versiones y entorno para ejecutar el proyecto</h5>
+pygame - 2.5.2<br>
+pygame-gui - 0.6.9<br>
+pygame-ce - 2.4.1<br>
+tk - 0.1.0 (OPCIONAL)<br>
+<h5>Proyecto desarrollado en Python 3.12.2</h5>
+
+
 <h5>Proyecto evaluativo realizado para la materia Modelos de programacion II del proyecto de ingenieria de sistemas de la universidad distrital</h5>
