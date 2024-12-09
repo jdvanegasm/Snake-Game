@@ -1,4 +1,4 @@
-# SnakeGame-Software-Modeling-II
+# Snake Game
 <h3>Snake Video Game Created in Python Using Design Patterns and Package Architecture</h3>
 Project carried out by:<br>
 Juan Daniel Vanegas Mayorquin<br>
