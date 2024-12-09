@@ -15,4 +15,4 @@ Juan Pablo Guerrero Angulo<br>
 - `tk` - 0.1.0 (OPTIONAL)<br>
 <h5>Project developed in Python 3.12.2</h5>
 
-<h5>Evaluative project carried out for the course **Programming Models II** of the Systems Engineering program at the **Bogotá Distrital University**.</h5>
+<h5>Evaluative project carried out for the course Programming Models II of the Systems Engineering program at the Bogotá Distrital University.</h5>
